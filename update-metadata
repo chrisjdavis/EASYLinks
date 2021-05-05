@@ -5,7 +5,7 @@
   "version" : "1.1",
   "last_updated": "2021-05-05",
   "author" : "Sillyness, Inc.",
-  "upgrade_notice" : "Bug fixes and optimizations, oh. my. First Public release of the plugin."
+  "upgrade_notice" : "Bug fixes and optimizations, oh. my. First Public release of the plugin.",
   "sections" : {
 		"description" : "Don't lose that precious Google Juice by hosting your social links on another service."
   }
